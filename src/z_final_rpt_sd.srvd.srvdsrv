@@ -1,0 +1,4 @@
+@EndUserText.label: 'Final Report Definition'
+define service Z_FINAL_RPT_SD {
+  expose Z_FINAL_RPT as FINAL_REPORT;
+}

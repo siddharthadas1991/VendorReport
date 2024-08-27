@@ -1,0 +1,4 @@
+@EndUserText.label: 'Z_BP_REPORT'
+define service Z_BP_REPORT {
+  expose Z_FINAL_RPT as BP_RPT;
+}

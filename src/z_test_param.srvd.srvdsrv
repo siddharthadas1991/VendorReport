@@ -1,0 +1,4 @@
+@EndUserText.label: 'Z_TEST_PARAM'
+define service Z_TEST_PARAM {
+  expose Z_TEST_VIEW_PARAM as PARAM_TEST;
+}

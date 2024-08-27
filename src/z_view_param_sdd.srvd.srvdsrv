@@ -1,0 +1,4 @@
+@EndUserText.label: 'Z_VIEW_PARAM_SDD'
+define service Z_VIEW_PARAM_SDD {
+  expose Z_TEST_VIEW_PARAM as PARAM_TEST;
+}

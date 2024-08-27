@@ -1,0 +1,4 @@
+@EndUserText.label: 'Z_CDS_JE_N'
+define service Z_CDS_JE_N {
+  expose ZCDS_JE_V_DT as JE_RPT;
+}
